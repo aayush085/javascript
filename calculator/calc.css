@@ -1,0 +1,19 @@
+ body {
+  background-color: orange;
+}
+
+#input {
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#button{
+    position: absolute;
+}
+
+#result{
+    background-color: white;
+}
